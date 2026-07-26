@@ -4,7 +4,7 @@ ZCode plugins we've built.
 
 | Plugin | Version | What it does | Source |
 | --- | --- | --- | --- |
-| `pi-commands` | 0.2.0 | 191 slash-commands + `UserPromptSubmit` hook (re-injects the command/skill index every prompt) | [pi-plugins](https://github.com/buihongduc132/pi-plugins) |
+| `pi-commands` | 0.2.0 | 191 slash-commands + `UserPromptSubmit` hook (re-injects the command/skill index every prompt) | [zcode-pi-cmd-loader](https://github.com/buihongduc132/zcode-pi-cmd-loader) |
 | `zcode-intercom` | 0.1.0 | Cross-agent MCP server: `intercom_list` / `send` / `ask` / `reply` / `pending` / `inbox` / `status` | [zcode-intercom](https://github.com/buihongduc132/zcode-intercom) |
 | `hindsight` | 0.2.0 | Durable-memory MCP server (`hindsight_search` / `context` / `retain` / `banks`) + 4 slash-commands + `hindsight-usage` skill + hooks. Shares banks with pi. | [hindsight-zcode-local](https://github.com/buihongduc132/hindsight-zcode-local) |
 
